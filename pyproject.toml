@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "lightcurve"
+version = "0.1.0"
+description = ""
+authors = ["Bunch of cells <alumin112.welcome@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+scipy = "^1.15.2"
+matplotlib = "^3.10.1"
+numpy = "^2.2.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
