@@ -10,6 +10,7 @@ python = "^3.12"
 scipy = "^1.15.2"
 matplotlib = "^3.10.1"
 numpy = "^2.2.3"
+dearpygui = "^2.0.0"
 
 
 [build-system]
